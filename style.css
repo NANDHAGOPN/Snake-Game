@@ -1,0 +1,19 @@
+h1,h2,.game-canvas{
+    text-align: center;
+}
+#score,#game-status{
+    color: red;
+}
+h1,h2{
+    color: blue;
+    font-size: 2rem;
+    font-weight: 900;
+    padding: auto;
+    
+}
+h1{
+    font-size: 3rem;
+}
+
+
+
